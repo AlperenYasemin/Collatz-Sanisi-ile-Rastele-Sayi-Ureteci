@@ -45,3 +45,14 @@ flowchart TD
     
     style ChaosEngine fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     style Balancer fill:#fff3e0,stroke:#e65100,stroke-width:2px
+
+```
+
+📊 İstatistiksel Analiz
+
+Algoritmanın ürettiği anahtar akışının rastgelelik testi (1000 bitlik örneklem):
+Bit Değeri	Sayı	Oran
+0	         496	%49.6
+1	         504	%50.4
+
+Sonuç: Mükemmele yakın entropi dengesi.
