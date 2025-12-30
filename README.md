@@ -1,4 +1,3 @@
-```markdown
 # 🎲 Collatz-XP Cipher (Collatz-XOR-Permutation)
 
 > **"Kaos, düzenin henüz çözülememiş halidir."**
@@ -188,6 +187,4 @@ Algoritmanın ürettiği anahtar akışının rastgelelik testi (1000 bitlik ör
 | **1** | 504 | %50.4 |
 
 *Sonuç: Mükemmele yakın entropi dengesi.*
-```
-
 ```
