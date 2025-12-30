@@ -103,11 +103,11 @@ Projeyi klonlayın ve çalıştırın:
 ```bash
 git clone [https://github.com/kullaniciadi/collatz-xp-cipher.git](https://github.com/kullaniciadi/collatz-xp-cipher.git)
 cd collatz-xp-cipher
-python main.py
+python collatz-rsu.py
 
 ```
 
-### Python Kaynak Kodu (`main.py`)
+### Python Kaynak Kodu (`collatz-rsu.py`)
 
 ```python
 import random
